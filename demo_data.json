@@ -1,0 +1,609 @@
+{
+  "account_info": {
+    "username": "demo_analytics_account",
+    "name": "Demo Analytics Account",
+    "biography": "This is a demo account for testing Instagram Analytics features. Real data would come from Meta API.",
+    "followers_count": 49458,
+    "follows_count": 550,
+    "media_count": 972
+  },
+  "media_data": [
+    {
+      "id": "demo_post_1",
+      "caption": "Behind the scenes at our photoshoot 📷 #bts #photoshoot #creative",
+      "media_type": "CAROUSEL_ALBUM",
+      "timestamp": "2025-09-22T21:14:41.631598",
+      "like_count": 662,
+      "comments_count": 69,
+      "engagement": 731
+    },
+    {
+      "id": "demo_post_2",
+      "caption": "Coffee and productivity ☕ #mondaymotivation #coffee #work",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-13T21:14:41.634208",
+      "like_count": 483,
+      "comments_count": 184,
+      "engagement": 667
+    },
+    {
+      "id": "demo_post_3",
+      "caption": "Weekend vibes 🎉 #weekend #relaxation #goodvibes",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-13T16:14:41.634221",
+      "like_count": 1143,
+      "comments_count": 37,
+      "engagement": 1180
+    },
+    {
+      "id": "demo_post_4",
+      "caption": "Exploring the local farmers market 🌽 #farmersmarket #local #fresh",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-05T16:14:41.634227",
+      "like_count": 520,
+      "comments_count": 182,
+      "engagement": 702
+    },
+    {
+      "id": "demo_post_5",
+      "caption": "Beautiful sunset at the beach 🌅 #sunset #beach #nature",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-20T17:14:41.634231",
+      "like_count": 1048,
+      "comments_count": 98,
+      "engagement": 1146
+    },
+    {
+      "id": "demo_post_6",
+      "caption": "Reading my new favorite book 📚 #reading #books #literature",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-19T01:14:41.634235",
+      "like_count": 128,
+      "comments_count": 108,
+      "engagement": 236
+    },
+    {
+      "id": "demo_post_7",
+      "caption": "Weekend vibes 🎉 #weekend #relaxation #goodvibes",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-12T08:14:41.634240",
+      "like_count": 102,
+      "comments_count": 82,
+      "engagement": 184
+    },
+    {
+      "id": "demo_post_8",
+      "caption": "Coffee and productivity ☕ #mondaymotivation #coffee #work",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-13T14:14:41.634244",
+      "like_count": 1033,
+      "comments_count": 125,
+      "engagement": 1158
+    },
+    {
+      "id": "demo_post_9",
+      "caption": "Art exhibition opening night 🎨 #art #exhibition #culture",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-22T17:14:41.634251",
+      "like_count": 1256,
+      "comments_count": 73,
+      "engagement": 1329
+    },
+    {
+      "id": "demo_post_10",
+      "caption": "Behind the scenes at our photoshoot 📷 #bts #photoshoot #creative",
+      "media_type": "IMAGE",
+      "timestamp": "2025-10-02T04:14:41.634254",
+      "like_count": 1497,
+      "comments_count": 79,
+      "engagement": 1576
+    },
+    {
+      "id": "demo_post_11",
+      "caption": "Throwback to last summer's adventure 🏤 #throwback #travel #memories",
+      "media_type": "CAROUSEL_ALBUM",
+      "timestamp": "2025-09-17T19:14:41.634258",
+      "like_count": 405,
+      "comments_count": 9,
+      "engagement": 414
+    },
+    {
+      "id": "demo_post_12",
+      "caption": "Meditation and mindfulness practice 🧘 #meditation #mindfulness #peace",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-12T16:14:41.634263",
+      "like_count": 1940,
+      "comments_count": 176,
+      "engagement": 2116
+    },
+    {
+      "id": "demo_post_13",
+      "caption": "Coffee and productivity ☕ #mondaymotivation #coffee #work",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-16T12:14:41.634267",
+      "like_count": 256,
+      "comments_count": 93,
+      "engagement": 349
+    },
+    {
+      "id": "demo_post_14",
+      "caption": "Meditation and mindfulness practice 🧘 #meditation #mindfulness #peace",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-30T15:14:41.634271",
+      "like_count": 1316,
+      "comments_count": 147,
+      "engagement": 1463
+    },
+    {
+      "id": "demo_post_15",
+      "caption": "Client presentation went great! 📈 #business #presentation #success",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-11T07:14:41.634276",
+      "like_count": 1494,
+      "comments_count": 51,
+      "engagement": 1545
+    },
+    {
+      "id": "demo_post_16",
+      "caption": "Trying out new recipe experiments 🍳 #cooking #experiments #kitchen",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-26T03:14:41.634281",
+      "like_count": 1836,
+      "comments_count": 165,
+      "engagement": 2001
+    },
+    {
+      "id": "demo_post_17",
+      "caption": "Morning workout complete! 💪 #fitness #morning #workout",
+      "media_type": "IMAGE",
+      "timestamp": "2025-10-02T13:14:41.634284",
+      "like_count": 1432,
+      "comments_count": 26,
+      "engagement": 1458
+    },
+    {
+      "id": "demo_post_18",
+      "caption": "Late night coding session 💻 #coding #developer #latenight",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-28T22:14:41.634288",
+      "like_count": 593,
+      "comments_count": 28,
+      "engagement": 621
+    },
+    {
+      "id": "demo_post_19",
+      "caption": "Concert was absolutely amazing! 🎵 #music #concert #livemusic",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-12T00:14:41.634291",
+      "like_count": 856,
+      "comments_count": 153,
+      "engagement": 1009
+    },
+    {
+      "id": "demo_post_20",
+      "caption": "Late night coding session 💻 #coding #developer #latenight",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-13T03:14:41.634295",
+      "like_count": 312,
+      "comments_count": 134,
+      "engagement": 446
+    },
+    {
+      "id": "demo_post_21",
+      "caption": "Meditation and mindfulness practice 🧘 #meditation #mindfulness #peace",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-25T15:14:41.634298",
+      "like_count": 1404,
+      "comments_count": 122,
+      "engagement": 1526
+    },
+    {
+      "id": "demo_post_22",
+      "caption": "Trying out new recipe experiments 🍳 #cooking #experiments #kitchen",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-18T08:14:41.634301",
+      "like_count": 1602,
+      "comments_count": 148,
+      "engagement": 1750
+    },
+    {
+      "id": "demo_post_23",
+      "caption": "Holiday decorations are up! 🎄 #holidays #decorations #festive",
+      "media_type": "CAROUSEL_ALBUM",
+      "timestamp": "2025-09-04T09:14:41.634305",
+      "like_count": 1762,
+      "comments_count": 14,
+      "engagement": 1776
+    },
+    {
+      "id": "demo_post_24",
+      "caption": "Trying out new recipe experiments 🍳 #cooking #experiments #kitchen",
+      "media_type": "IMAGE",
+      "timestamp": "2025-09-24T00:14:41.634308",
+      "like_count": 1256,
+      "comments_count": 162,
+      "engagement": 1418
+    },
+    {
+      "id": "demo_post_25",
+      "caption": "Coffee and productivity ☕ #mondaymotivation #coffee #work",
+      "media_type": "VIDEO",
+      "timestamp": "2025-09-12T18:14:41.634311",
+      "like_count": 865,
+      "comments_count": 180,
+      "engagement": 1045
+    }
+  ],
+  "insights_data": {
+    "impressions": 40074,
+    "reach": 63839,
+    "profile_views": 2977,
+    "website_clicks": 596
+  },
+  "audience_insights": {
+    "top_cities": [
+      "Houston",
+      "Philadelphia",
+      "Phoenix",
+      "Los Angeles",
+      "Dallas"
+    ],
+    "top_countries": [
+      "Mexico",
+      "Japan",
+      "Canada",
+      "France",
+      "Germany"
+    ],
+    "age_groups": {
+      "18-24": 23,
+      "25-34": 35,
+      "35-44": 24,
+      "45-54": 20,
+      "55+": 5
+    },
+    "gender_split": {
+      "female": 63,
+      "male": 41
+    }
+  },
+  "hashtag_performance": [
+    {
+      "hashtag": "#design",
+      "reach": 5247,
+      "impressions": 16736,
+      "uses": 1880
+    },
+    {
+      "hashtag": "#lifestyle",
+      "reach": 7147,
+      "impressions": 12312,
+      "uses": 4208
+    },
+    {
+      "hashtag": "#startup",
+      "reach": 7739,
+      "impressions": 4659,
+      "uses": 547
+    },
+    {
+      "hashtag": "#art",
+      "reach": 2696,
+      "impressions": 15233,
+      "uses": 4263
+    },
+    {
+      "hashtag": "#entrepreneur",
+      "reach": 7742,
+      "impressions": 9070,
+      "uses": 4020
+    },
+    {
+      "hashtag": "#photography",
+      "reach": 5231,
+      "impressions": 7584,
+      "uses": 3567
+    },
+    {
+      "hashtag": "#success",
+      "reach": 3025,
+      "impressions": 17269,
+      "uses": 1550
+    },
+    {
+      "hashtag": "#business",
+      "reach": 1159,
+      "impressions": 8093,
+      "uses": 2768
+    },
+    {
+      "hashtag": "#motivation",
+      "reach": 8328,
+      "impressions": 13653,
+      "uses": 3432
+    },
+    {
+      "hashtag": "#fitness",
+      "reach": 1203,
+      "impressions": 7418,
+      "uses": 4187
+    }
+  ],
+  "engagement_timeline": [
+    {
+      "date": "2025-09-03",
+      "likes": 163,
+      "comments": 22,
+      "shares": 43,
+      "saves": 88,
+      "profile_visits": 177
+    },
+    {
+      "date": "2025-09-04",
+      "likes": 139,
+      "comments": 61,
+      "shares": 29,
+      "saves": 115,
+      "profile_visits": 97
+    },
+    {
+      "date": "2025-09-05",
+      "likes": 55,
+      "comments": 37,
+      "shares": 14,
+      "saves": 49,
+      "profile_visits": 126
+    },
+    {
+      "date": "2025-09-06",
+      "likes": 310,
+      "comments": 18,
+      "shares": 32,
+      "saves": 64,
+      "profile_visits": 39
+    },
+    {
+      "date": "2025-09-07",
+      "likes": 212,
+      "comments": 34,
+      "shares": 22,
+      "saves": 91,
+      "profile_visits": 89
+    },
+    {
+      "date": "2025-09-08",
+      "likes": 301,
+      "comments": 45,
+      "shares": 18,
+      "saves": 26,
+      "profile_visits": 137
+    },
+    {
+      "date": "2025-09-09",
+      "likes": 112,
+      "comments": 24,
+      "shares": 47,
+      "saves": 126,
+      "profile_visits": 173
+    },
+    {
+      "date": "2025-09-10",
+      "likes": 107,
+      "comments": 57,
+      "shares": 44,
+      "saves": 141,
+      "profile_visits": 152
+    },
+    {
+      "date": "2025-09-11",
+      "likes": 249,
+      "comments": 22,
+      "shares": 24,
+      "saves": 85,
+      "profile_visits": 22
+    },
+    {
+      "date": "2025-09-12",
+      "likes": 238,
+      "comments": 32,
+      "shares": 5,
+      "saves": 135,
+      "profile_visits": 164
+    },
+    {
+      "date": "2025-09-13",
+      "likes": 383,
+      "comments": 59,
+      "shares": 33,
+      "saves": 54,
+      "profile_visits": 20
+    },
+    {
+      "date": "2025-09-14",
+      "likes": 283,
+      "comments": 38,
+      "shares": 42,
+      "saves": 76,
+      "profile_visits": 115
+    },
+    {
+      "date": "2025-09-15",
+      "likes": 201,
+      "comments": 72,
+      "shares": 11,
+      "saves": 136,
+      "profile_visits": 124
+    },
+    {
+      "date": "2025-09-16",
+      "likes": 51,
+      "comments": 70,
+      "shares": 8,
+      "saves": 24,
+      "profile_visits": 58
+    },
+    {
+      "date": "2025-09-17",
+      "likes": 355,
+      "comments": 59,
+      "shares": 11,
+      "saves": 98,
+      "profile_visits": 128
+    },
+    {
+      "date": "2025-09-18",
+      "likes": 411,
+      "comments": 63,
+      "shares": 29,
+      "saves": 29,
+      "profile_visits": 175
+    },
+    {
+      "date": "2025-09-19",
+      "likes": 204,
+      "comments": 43,
+      "shares": 45,
+      "saves": 87,
+      "profile_visits": 172
+    },
+    {
+      "date": "2025-09-20",
+      "likes": 284,
+      "comments": 78,
+      "shares": 7,
+      "saves": 59,
+      "profile_visits": 90
+    },
+    {
+      "date": "2025-09-21",
+      "likes": 102,
+      "comments": 87,
+      "shares": 47,
+      "saves": 88,
+      "profile_visits": 72
+    },
+    {
+      "date": "2025-09-22",
+      "likes": 340,
+      "comments": 39,
+      "shares": 7,
+      "saves": 145,
+      "profile_visits": 175
+    },
+    {
+      "date": "2025-09-23",
+      "likes": 314,
+      "comments": 85,
+      "shares": 16,
+      "saves": 66,
+      "profile_visits": 130
+    },
+    {
+      "date": "2025-09-24",
+      "likes": 458,
+      "comments": 28,
+      "shares": 15,
+      "saves": 41,
+      "profile_visits": 155
+    },
+    {
+      "date": "2025-09-25",
+      "likes": 352,
+      "comments": 62,
+      "shares": 48,
+      "saves": 87,
+      "profile_visits": 196
+    },
+    {
+      "date": "2025-09-26",
+      "likes": 304,
+      "comments": 49,
+      "shares": 11,
+      "saves": 111,
+      "profile_visits": 197
+    },
+    {
+      "date": "2025-09-27",
+      "likes": 225,
+      "comments": 81,
+      "shares": 20,
+      "saves": 58,
+      "profile_visits": 36
+    },
+    {
+      "date": "2025-09-28",
+      "likes": 148,
+      "comments": 96,
+      "shares": 8,
+      "saves": 143,
+      "profile_visits": 30
+    },
+    {
+      "date": "2025-09-29",
+      "likes": 422,
+      "comments": 25,
+      "shares": 43,
+      "saves": 80,
+      "profile_visits": 63
+    },
+    {
+      "date": "2025-09-30",
+      "likes": 364,
+      "comments": 22,
+      "shares": 9,
+      "saves": 142,
+      "profile_visits": 74
+    },
+    {
+      "date": "2025-10-01",
+      "likes": 204,
+      "comments": 18,
+      "shares": 42,
+      "saves": 124,
+      "profile_visits": 43
+    },
+    {
+      "date": "2025-10-02",
+      "likes": 445,
+      "comments": 18,
+      "shares": 13,
+      "saves": 145,
+      "profile_visits": 142
+    }
+  ],
+  "story_insights": {
+    "story_impressions": 8362,
+    "story_reach": 8010,
+    "story_exits": 867,
+    "story_replies": 394,
+    "story_taps_forward": 2363,
+    "story_taps_back": 941
+  },
+  "competitor_data": [
+    {
+      "name": "Competitor A",
+      "followers": 25079,
+      "engagement_rate": 1.6
+    },
+    {
+      "name": "Competitor B",
+      "followers": 13397,
+      "engagement_rate": 4.43
+    },
+    {
+      "name": "Competitor C",
+      "followers": 79880,
+      "engagement_rate": 3.21
+    },
+    {
+      "name": "Competitor D",
+      "followers": 72758,
+      "engagement_rate": 3.34
+    },
+    {
+      "name": "Competitor E",
+      "followers": 46873,
+      "engagement_rate": 2.84
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+requests==2.31.0
+tkinter
+matplotlib==3.7.2
+pandas==2.0.3
+Pillow==10.0.0
+python-dotenv==1.0.0
+seaborn==0.12.2
+numpy==1.24.3
+facebook-business==18.0.0
