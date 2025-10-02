@@ -1,6 +1,6 @@
 # Instagram Analytics Dashboard
 
-A comprehensive Python GUI application for analyzing Instagram account performance using the Meta Graph API.
+A comprehensive Python GUI application for analysing Instagram account performance using the Meta Graph API.
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
